@@ -16,6 +16,10 @@ Display  | LCD , 60Hz , 6.5 inch , 720 × 1600 pixels , 20:9 ratio
 ```
 A127FXXUADWK1
 ```
+## Clone
+```
+git clone https://github.com/MFO-STAGING/android_device_samsung_a12s.git -b twrp-14 device/samsung/a12s
+```
 
 ## Build
 ```
